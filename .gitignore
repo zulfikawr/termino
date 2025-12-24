@@ -1,0 +1,52 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go workspace file
+go.work
+
+# Dependency directories
+vendor/
+
+# IDEs and editors
+.idea/
+.vscode/
+.idx/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Build artifacts
+dist/
+build/
+bin/
+
+# Logs
+*.log
+logs/
+
+# Backup files
+*.bak
+*.backup
+*-backup
+
+# Compressed files (test artifacts)
+*.zip
+*.tar.gz
+*.tgz
+*.tar
+
+# Debug files
+debug
+debug.test
+__debug_bin
